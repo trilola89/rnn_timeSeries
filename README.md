@@ -6,6 +6,9 @@
   - [Summary](#summary)
   - [Results](#results)
     - [Key Graphs](#key-graphs)
+      - [Single-step forecast:](#single-step-forecast)
+      - [Multi-step forecast:](#multi-step-forecast)
+      - [Sequence-to-Sequence forecast:](#sequence-to-sequence-forecast)
     - [Key Metrics](#key-metrics)
   - [Lessons Learned](#lessons-learned)
   - [Future Directions](#future-directions)
@@ -19,11 +22,11 @@ This project focused on using Neural Networks, specifically LSTMs, to predict st
 - **Failures**: The sequence-to-sequence model produced complex and hard-to-interpret results.
   
 ### Key Graphs
-Single-step forecast:
+#### Single-step forecast:
 ![Single-step forecast](image.png)
-Multi-step forecast:
+#### Multi-step forecast:
 ![Multi-step forecast](image-1.png)
-Sequence-to-Sequence forecast:
+#### Sequence-to-Sequence forecast:
 ![Sequence-to-Sequence forecast](image-2.png)
 
 ### Key Metrics
